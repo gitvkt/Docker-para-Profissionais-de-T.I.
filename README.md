@@ -1,4 +1,3 @@
-# Docker-para-Profissionais-de-T.I.
 # 🐳 Docker para Profissionais de T.I.
 
 > Guia prático e progressivo para aprender Docker do zero, entender seus principais conceitos e construir ambientes profissionais utilizando containers.
